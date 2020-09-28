@@ -27,3 +27,6 @@ UserInterfaceState.xcuserstate
 
 www/
 loader/
+**/.env.d
+**/.env
+
